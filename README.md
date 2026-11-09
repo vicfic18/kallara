@@ -1,21 +1,7 @@
 
-<svg fill="none" viewBox="0 0 500 150" width="100%" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        @media (prefers-color-scheme: dark) {
-          img {
-            filter: invert(1);
-            background: none;
-          }
-        }
-      </style>
-      <div align="center">
-        <img width="400" src="kallara-logo.png" alt="bic"/>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
+<div align="center">
+  <img width="500" src="kallara-logo.svg" alt="Kallara Logo">
+</div>
 
 > **kallara** (kʌl-lʌ-rʌ): underground stone vault used to safeguard royal treasures and/or dead bodies.
 
