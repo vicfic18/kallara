@@ -1,0 +1,19 @@
+[package]
+name = "kallara-core"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+
+[dependencies]
+tar = { workspace = true }
+zstd = { workspace = true }
+aes-gcm = { workspace = true }
+argon2 = { workspace = true }
+bincode = { workspace = true }
+jwalk = { workspace = true }
+rayon = { workspace = true }
+serde = { workspace = true }
+thiserror = { workspace = true }
+anyhow = { workspace = true }
+rand = { workspace = true }
